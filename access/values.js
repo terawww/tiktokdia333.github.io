@@ -3,9 +3,9 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "17.02.2008"; // Дата рождения
-var fullname = "Трофименко Кирило Євгенович" // ФИО
-var name = "Кирило" // Имя
+var birthdate = "17.11.2007"; // Дата рождения
+var fullname = "Фамилия Имя Отчество" // ФИО
+var name = "Имя" // Имя
 
 // Паспорт
 var passport_id = "397587838" // Номер паспорта
